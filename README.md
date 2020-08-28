@@ -51,6 +51,7 @@ const Component = () => (
 export default Component;
 ```
 
+**Coming from v2? Check the [migration guide](https://tintef.github.io/react-google-places-autocomplete/docs/v2-to-v3)
 
 ## How to contribute?
 
